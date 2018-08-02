@@ -1,0 +1,10 @@
+Package: myphom
+Type: Package
+Title: Calculate, Visualize and Analyze Persistent Homology
+Version: 0.0.1.9000
+Authors@R: person("Rentaro", "Futagami", ,"futagamirentaro@gmail.com",c("aut","cre"))
+Description: Lapper package of TDA package.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+BugReports: https://github.com/hosscine/myphom/issues
